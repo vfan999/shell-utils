@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#自动挂载三号机nfs,SETBOOT参数0为不开机启动
+#挂载nfs,SETBOOT参数0为不开机启动
 
 SETBOOT=0
 MOUNT=192.168.1.174:/root/shell
